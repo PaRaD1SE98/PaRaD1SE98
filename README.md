@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaRaD1SE98&show_icons=true&theme=)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaRaD1SE98&layout=compact)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaRaD1SE98&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" alt="github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaRaD1SE98&layout=compact&hide_border=true&theme=transparent&langs_count=10&hide=html,purebasic,plpgsql,jupyter%20notebook" /> |
+| ------------- | ------------- |
+
 <!-- #### Most Used Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
