@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <img align="center" src="https://private-github-readme-stats.vercel.app/api?username=PaRaD1SE98&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&count-private=true" alt="github stats" /> | <img align="center" src="https://private-github-readme-stats.vercel.app/api/top-langs/?username=PaRaD1SE98&layout=compact&hide_border=true&theme=transparent&langs_count=10&hide=html,handlebars,go,vue,roff,java,jsonnet,less,batchfile,php,css,sieve,nasl,purebasic,plpgsql,jupyter%20notebook&count-private=true" /> |
+| <img align="center" src="https://private-github-readme-stats.vercel.app/api?username=PaRaD1SE98&show_icons=true&theme=transparent&hide_border=true" alt="github stats" /> | <img align="center" src="https://private-github-readme-stats.vercel.app/api/top-langs/?username=PaRaD1SE98&layout=compact&hide_border=true&theme=transparent&langs_count=10&hide=html,handlebars,go,vue,roff,java,jsonnet,less,batchfile,php,css,sieve,nasl,purebasic,plpgsql,jupyter%20notebook&count-private=true" alt="github language stats" /> |
 | ------------- | ------------- |
 
 <!-- #### Most Used Languages:
