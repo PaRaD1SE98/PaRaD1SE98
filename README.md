@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm PaRaD1SE</h1>
+<h3 align="center">A pianist, developer and researcher.</h3>
+
 <!--
 ### Hi there 👋
 **PaRaD1SE98/PaRaD1SE98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +49,6 @@ Here are some ideas to get you started:
 ##### Experienced：
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) -->
+
+* 🌐 中文 · English · 日本語
+* 🔗 Blog: [prds98.com](https://prds98.com)
